@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vaccine Schedule</string>
+    <!-- Shown above left column listing bus stops in full schedule fragment -->
+    <string name="bus_stop_header">Stop Name</string>
+    <!-- Shown above right column listing arrival times in full schedule fragment -->
+    <string name="arrival_time_header">Date</string>
+    <!-- Shown above left column listing airline names in full schedule fragment -->
+    <string name="airline_name_header">Pharmacy Name</string>
+    <!-- Shown above middle column listing terminal numbers in full schedule fragment -->
+    <string name="terminal_num_header">Location</string>
+    <!-- Shown above right column listing arrival times in full schedule fragment -->
+    <string name="status_header">Time</string>
+</resources>
